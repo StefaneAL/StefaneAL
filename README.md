@@ -1,5 +1,5 @@
 # ```Stefane Almeida```
-## Em transição de carreira, buscando uma vaga em BackEnd, QA ou automação de teste.
+## Buscando uma vaga em BackEnd, QA ou automação de teste.
 ----
 <a href="https://www.google.com/maps/place/S%C3%A3o+Paulo,+State+of+S%C3%A3o+Paulo/@-23.6821604,-46.8754915,10z/data=!3m1!4b1!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5557714!4d-46.6395571" target="_blank"><img src="https://www.pngkey.com/png/full/129-1294584_vector-library-library-pins-clipart-map-pin-google.png" width="15" height="20" /> 
 São Paulo/SP</a>
@@ -20,7 +20,7 @@ São Paulo/SP</a>
 Pessoa Não-Binarie que ama Amarelo e girassóis, #goVegan, gosto de ler ficção política, filosófica e científica. Apaixonade pela América Latina, tenho como lugares que mais amo Misiones- AR,  Asunción-PY  e Joinville-SC-BR.
 
 
-Estudei e trabalhei por mais de 15 anos na área da beleza e sempre apaixonade por tecnologia. No final de 2020 vi a possibilidade de estudar teste de software por exigir Soft Skills já presentes na minha carreira. Comecei a me aprofundar no assunto e me apaixonei por automação, e como não podia ser diferente por programação, que estudei no bootcamp {reprograma} onde me apaixonei por DB NoSQL.
+Sempre apaixonade por tecnologia. No final de 2020 vi a possibilidade de estudar teste de software por exigir Soft Skills já presentes na minha carreira. Comecei a me aprofundar no assunto e me apaixonei por automação, e como não podia ser diferente por programação, que estudei no bootcamp {reprograma} onde me apaixonei por DB NoSQL.
 
 ---
 ## *No que ja trabalhei*
@@ -43,7 +43,7 @@ Cargo Funcao: Colorimetrista
 
 Empresa: Lilith Exclusive
 
-Periodo: jan/2005 a Dez/2021
+Periodo: jan/2005 a Dez/2020
 
 Atividades Desenvolvidas: Treinamento de equipe, organização de eventos, gerenciamento de equipe em desfiles, análise de cor , avaliação de saúde dos cabelos, acompanhamento e execução de tratamento de tricologia e colorimetria e transformação de forma,
 
